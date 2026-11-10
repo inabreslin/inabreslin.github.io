@@ -1,0 +1,199 @@
+WEBVTT
+
+00:00.000 --> 00:09.000
+This is the advanced features demonstration for Group nil for the embedded coursework 2.
+
+00:09.900 --> 00:14.800
+On the user interface, at the moment the vibrato is set to 5, so let me just put that back to 0.
+
+00:15.900 --> 00:19.900
+As you can see, this knob will do the volume and you can see the change on the user interface
+
+00:19.950 --> 00:26.650
+as you increase or decrease: increase by going clockwise, decrease by going anti-clockwise.
+
+00:26.650 --> 00:28.650
+And that is the case for all of the knobs.
+
+00:28.650 --> 00:30.000
+That is the way that they are incremented or decremented.
+
+00:30.000 --> 00:37.100
+So this is a sawtooth wave currently, as is displayed on the screen, and this is what it sounds like.
+
+00:37.100 --> 00:39.900
+[Sawtooth notes playing]
+
+00:39.900 --> 00:43.900
+And you can see that when you press a button, the note is displayed on the screen,
+
+00:43.900 --> 00:45.900
+[Notes playing]
+
+00:45.900 --> 00:49.900
+like so. We've implemented polyphony, so when you press multiple notes,
+
+00:49.900 --> 00:57.100
+you hear a combined sound, and it works with any number of the notes on the keyboard.
+
+00:57.100 --> 00:59.800
+For example, I could do the whole thing.
+
+00:59.900 --> 01:04.000
+You can hear all of the notes.
+
+01:04.000 --> 01:09.800
+And then we have implemented a tremolo, so it is the first knob. If I turn it a little bit,
+
+01:09.900 --> 01:19.800
+you'll hear tremolo. If I turn it more, it will increase the frequency of the amplitude
+
+01:19.900 --> 01:29.800
+modulation, and so on as you increase, or less as you decrease. Then we also have the vibrato.
+
+01:29.900 --> 01:39.800
+So vibrato, it is a frequency modulation, as can be heard, and when you increase the vibrato
+
+01:39.850 --> 01:44.000
+number, you are increasing the frequency range but also the frequency of the
+
+01:44.000 --> 01:48.000
+modulation. So like this.
+
+01:49.800 --> 01:59.800
+Even higher. That's actually going faster, and when you go lower there's a
+
+01:59.850 --> 02:07.400
+much slower change. And these all work with polyphony, so to demonstrate.
+
+02:09.800 --> 02:18.800
+They also work in combination, and in combination with polyphony.
+
+02:19.800 --> 02:29.700
+Like so. And tremolo also works with polyphony, like so. We also have, obviously, the octave too,
+
+02:29.750 --> 02:35.500
+displayed on the screen. And now we can change the waveform. So if I take one rotation to
+
+02:35.500 --> 02:39.700
+the right, the waveform changes to sine, as indicated on the screen. And this is
+
+02:39.750 --> 02:49.700
+sine. And polyphony works with sine.
+
+02:49.750 --> 02:59.700
+Sine with any number of keys.
+
+02:59.750 --> 03:09.700
+And tremolo works with sine, in the same way as before: as you increase, it increases, and
+
+03:09.700 --> 03:14.800
+vibrato also works with sine.
+
+03:14.800 --> 03:18.500
+It works with sine and polyphony.
+
+03:18.500 --> 03:19.700
+It works with sine, polyphony
+
+03:19.700 --> 03:29.300
+and tremolo. So, as you can see, basically all of the features, they all work in
+
+03:29.300 --> 03:31.600
+conjunction.
+
+03:31.600 --> 03:37.300
+I will not be able to demonstrate them all right now, but they all work in conjunction.
+
+03:37.300 --> 03:39.700
+So then we have the triangle wave, which is the final
+
+03:39.700 --> 03:49.600
+waveform. It works normally and it also works with polyphony. Let me just increase the volume, sorry.
+
+03:49.650 --> 03:55.100
+And you can hear that it works.
+
+03:55.100 --> 03:59.600
+It also works with the tremolo.
+
+03:59.650 --> 04:07.400
+You can hear the tremolo, and obviously as you increase the tremolo, more, you know, increases
+
+04:07.400 --> 04:09.600
+the frequency of the
+
+04:09.600 --> 04:19.500
+amplitude modulation, and it also works with vibrato, and as you increase
+
+04:19.600 --> 04:27.900
+again, same effect as before, and as you can see, that also works with polyphony, and
+
+04:27.900 --> 04:29.600
+polyphony works with both.
+
+04:29.600 --> 04:36.600
+And it works with all three at the same time whilst being a triangle wave, and you can also
+
+04:36.600 --> 04:39.400
+change the volume, as we've heard, so
+
+04:39.600 --> 04:49.100
+or even lower, maybe five. Slightly quieter. And to demonstrate both at the same time.
+
+04:49.550 --> 04:53.950
+So triangle wave with vibrato and with tremolo and polyphony.
+
+04:56.750 --> 04:59.400
+They all work in conjunction. So
+
+04:59.550 --> 05:06.200
+to summarise, we have this knob which varies the tremolo, and this works no matter
+
+05:06.200 --> 05:08.500
+what other settings you have on the board.
+
+05:09.500 --> 05:17.100
+Whatever the settings you have defined, this tremolo will provide the tremolo effect, no
+
+05:17.100 --> 05:18.700
+matter what else it's being used with.
+
+05:19.500 --> 05:24.800
+We have vibrato, and that will work again no matter what other effects you are currently
+
+05:24.800 --> 05:29.500
+using, and whatever waveform you are currently using, it will add vibrato
+
+05:29.500 --> 05:36.400
+to that, and we can increase both of those as you turn more to the right, and
+
+05:36.400 --> 05:39.500
+decrease as you go towards the left, so anti-clockwise.
+
+05:39.500 --> 05:46.000
+Then we have this knob which varies the waveform, as I have shown, and it goes
+
+05:46.000 --> 05:49.450
+from sawtooth to sine wave to triangle
+
+05:49.450 --> 05:56.100
+wave. So the three waveforms. And the final knob will vary the volume, as I have shown.
+
+05:56.100 --> 05:59.400
+And all of these changes, as you can see,
+
+05:59.450 --> 06:06.000
+update the display, and you can visually see the changes, and as I have demonstrated
+
+06:06.000 --> 06:09.400
+you can also audibly hear the changes
+
+06:09.400 --> 06:12.400
+as I press the notes and add the effects.
+
+06:13.400 --> 06:19.400
+So these are the main advanced features in the demonstration.
+
+06:19.400 --> 06:23.000
+And thank you for watching.

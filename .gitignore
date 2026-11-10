@@ -1,0 +1,4 @@
+# Original source files (about 1 GB). The site uses the web-ready copies in assets/.
+Resources/
+# Local preview tools
+.claude/
